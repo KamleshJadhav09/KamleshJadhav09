@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on Data Analytics and solving real world problems by creating Interactive Dashboards<br> I’m looking to collaborate on Projects related to Data analytics<br> I’m looking for help with new trends and how can I transform my analytics skills<br> I’m currently learning Data<br> Fun fact I am passionate about data from Background in Computer Science
+ 🔭I’m currently working on Data Analytics and solving real world problems by creating Interactive Dashboards<br> 👯I’m looking to collaborate on Projects related to Data analytics<br>🤝 I’m looking for help with new trends and how can I transform my analytics skills<br> 🌱I’m currently learning Data<br> ⚡ Fun fact I am passionate about data from Background in Computer Science
 
 
 ## 🌐 Socials:
